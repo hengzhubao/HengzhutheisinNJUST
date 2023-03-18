@@ -1,0 +1,65 @@
+%
+%%% >>> Title Page
+%%
+%%
+%%%%********************** Chinese Title Page ****************************************
+%%
+  \classification{}
+  \confidential{}
+  \UDC{}
+%% 标题格式 \title[short title for headers]{Long title of thesis}
+  \title[激光致空泡在多种特殊流场环境下的动力学研究]{激光致空泡在多种特殊流场环境下的动力学研究}
+  \titleUpp{激光致空泡在多种特殊流场环境下}
+  \titleLow{的动力学研究}
+ \author{包恒竹}
+ \advisor{陆健}
+ 
+%   \author{ }
+%   \advisor{ }
+  \advisortitle{教授}
+
+  \coadvisor{张宏超 }
+  \coadvisortitle{副教授}
+  \degree{工学博士}
+  \major{光学工程}
+  \interest{激光与物质相互作用}
+  \school{南京理工大学}
+  \submitdate{2023.3}
+  \incoverdate{2023年3月}
+  %
+  \titleBackbone{激\\光\\致\\空\\泡\\在\\多\\种\\特\\殊\\流\\场\\环\\境\\下\\的\\动\\力\\学\\研\\究}
+  \schoolBackbone{南\\京\\理\\工\\大\\学}
+%%
+%%%%********************** English Title Page ****************************************
+%%
+  \englishtitle{Laser-induced bubble dynamics in several specific mechanical environments}
+ \englishauthor{Hengzhu Bao}
+ \englishadvisor{Jian Lu}
+   \englishcoadvisor{Claus-Dieter Ohl}
+   \englishcoadvisort{Hongchao Zhang}
+  \englishinstitute{Nanjing University of Science \& Technology}
+  \englishdate{March，2023}
+  \englishdegree{Dissertation}
+%%
+%%%%********************** Generate CHN & Eng Title ***********************************
+%%%
+%%
+\maketitle
+%%
+\makeincovertitle
+%%
+\makeenglishtitle
+%% make statement page
+\makeatletter
+\cleardoublepage
+\thispagestyle{empty}
+\begin{center}
+\input{tex/statement}
+\end{center}
+\clearpage
+\if@twoside
+  \thispagestyle{empty}
+  \cleardoublepage
+\fi
+ \makeatother
+%%%%*********************************** END *******************************************
