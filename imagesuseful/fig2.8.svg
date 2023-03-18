@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 399.27928 659.20603"
+   xml:space="preserve"
+   sodipodi:docname="fig2.8.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   width="399.2793"
+   height="659.20605"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs125" /><sodipodi:namedview
+   id="namedview123"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="0.82114981"
+   inkscape:cx="68.805959"
+   inkscape:cy="230.16507"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="图层_1"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:none;stroke:#231815;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#231815;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:4.0502,4.0502;}
+	.st2{fill:none;stroke:#231815;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:3.7844,3.7844;}
+	.st3{fill:none;stroke:#231815;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:3.9924,3.9924;}
+	.st4{fill:#E60012;stroke:#231815;stroke-miterlimit:10;}
+	.st5{font-family:'AdobeSongStd-Light-GBpc-EUC-H';}
+	.st6{font-size:24px;}
+	.st7{font-family:'TimesNewRomanPSMT';}
+	.st8{fill:#FFE5AA;stroke:#231815;stroke-miterlimit:10;}
+</style>
+<font
+   horiz-adv-x="2048"
+   id="font44"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="512"
+   vert-origin-y="768"
+   vert-adv-y="1024">
+<!-- Times New Roman is a trademark of The Monotype Corporation. -->
+<!-- Copyright: Copyright 2022 Adobe System Incorporated. All rights reserved. -->
+<font-face
+   font-family="TimesNewRomanPSMT"
+   units-per-em="2048"
+   underline-position="-223"
+   underline-thickness="100"
+   id="font-face4" />
+<missing-glyph
+   horiz-adv-x="1593"
+   d="M284,0l0,1280l1024,0l0,-1280M316,32l960,0l0,1216l-960,0z"
+   id="missing-glyph6" />
+<glyph
+   unicode=","
+   horiz-adv-x="512"
+   d="M110,-341l0,44C179,-274 232,-239 270,-191C307,-144 326,-93 326,-40C326,-27 323,-17 317,-8C312,-2 308,1 303,1C296,1 280,-6 255,-19C243,-25 230,-28 217,-28C184,-28 158,-18 139,1C120,20 110,47 110,81C110,114 123,142 148,165C173,188 203,200 239,200C283,200 322,181 357,143C391,104 408,53 408,-10C408,-79 384,-142 337,-201C289,-260 213,-307 110,-341z"
+   id="glyph8" />
+<glyph
+   unicode="0"
+   horiz-adv-x="1024"
+   d="M74,670C74,825 97,958 144,1070C191,1181 253,1264 330,1319C390,1362 452,1384 516,1384C620,1384 713,1331 796,1225C899,1094 951,916 951,691C951,534 928,400 883,290C838,180 780,100 710,51C639,1 571,-24 506,-24C377,-24 269,52 183,205C110,334 74,489 74,670M270,645C270,458 293,306 339,188C377,89 434,39 509,39C545,39 582,55 621,88C660,120 689,174 709,250C740,365 755,526 755,735C755,890 739,1019 707,1122C683,1199 652,1253 614,1285C587,1307 554,1318 515,1318C470,1318 429,1298 394,1257C346,1202 313,1115 296,996C279,877 270,760 270,645z"
+   id="glyph10" />
+<glyph
+   unicode="1"
+   horiz-adv-x="1024"
+   d="M240,1223l330,161l33,0l0,-1145C603,163 606,116 613,97C619,78 632,64 652,54C672,44 713,38 774,37l0,-37l-510,0l0,37C328,38 369,44 388,54C407,63 420,76 427,93C434,109 438,158 438,239l0,732C438,1070 435,1133 428,1161C423,1182 415,1198 403,1208C390,1218 375,1223 358,1223C333,1223 299,1213 255,1192z"
+   id="glyph12" />
+<glyph
+   unicode="2"
+   horiz-adv-x="1024"
+   d="M939,261l-95,-261l-800,0l0,37C279,252 445,427 541,563C637,699 685,823 685,936C685,1022 659,1093 606,1148C553,1203 490,1231 417,1231C350,1231 291,1212 238,1173C185,1134 145,1076 120,1001l-37,0C100,1124 143,1219 212,1285C281,1351 367,1384 470,1384C580,1384 672,1349 746,1278C819,1207 856,1124 856,1028C856,959 840,891 808,822C759,714 679,600 568,479C402,298 298,188 257,151l354,0C683,151 734,154 763,159C792,164 818,175 841,192C864,208 885,231 902,261z"
+   id="glyph14" />
+<glyph
+   unicode="3"
+   horiz-adv-x="1024"
+   d="M104,1098C143,1189 192,1260 251,1310C310,1359 383,1384 471,1384C580,1384 663,1349 721,1278C765,1225 787,1169 787,1109C787,1010 725,908 601,803C684,770 747,724 790,663C833,602 854,531 854,449C854,332 817,230 742,144C645,32 504,-24 319,-24C228,-24 166,-13 133,10C100,33 83,57 83,83C83,102 91,119 107,134C122,149 141,156 163,156C180,156 197,153 214,148C225,145 251,133 291,112C331,91 359,78 374,74C399,67 425,63 453,63C521,63 580,89 631,142C681,195 706,257 706,329C706,382 694,433 671,483C654,520 635,549 614,568C585,595 546,619 496,641C446,662 395,673 343,673l-32,0l0,30C364,710 417,729 470,760C523,791 561,829 585,873C609,917 621,965 621,1018C621,1087 600,1142 557,1185C514,1227 460,1248 396,1248C293,1248 206,1193 137,1082z"
+   id="glyph16" />
+<glyph
+   unicode="4"
+   horiz-adv-x="1024"
+   d="M953,500l0,-142l-182,0l0,-358l-165,0l0,358l-574,0l0,128l629,898l110,0l0,-884M606,500l0,673l-476,-673z"
+   id="glyph18" />
+<glyph
+   unicode="5"
+   horiz-adv-x="1024"
+   d="M889,1356l-78,-170l-408,0l-89,-182C491,978 631,912 734,807C823,716 867,610 867,487C867,416 853,350 824,289C795,228 758,177 714,134C670,91 621,57 567,31C490,-6 412,-24 331,-24C250,-24 191,-10 154,18C117,45 98,76 98,109C98,128 106,144 121,159C136,173 156,180 179,180C196,180 212,177 225,172C238,167 260,153 291,131C341,96 392,79 443,79C521,79 590,109 649,168C708,227 737,298 737,383C737,465 711,542 658,613C605,684 533,738 440,777C367,807 268,824 143,829l260,527z"
+   id="glyph20" />
+<glyph
+   unicode="6"
+   horiz-adv-x="1024"
+   d="M918,1384l0,-37C830,1338 758,1321 703,1295C647,1268 592,1228 538,1174C483,1120 438,1060 403,994C367,927 337,848 313,757C409,823 505,856 602,856C695,856 775,819 843,744C911,669 945,573 945,456C945,343 911,239 842,146C759,33 650,-24 514,-24C421,-24 343,7 278,68C151,187 88,342 88,532C88,653 112,769 161,878C210,987 279,1084 370,1169C460,1254 546,1311 629,1340C712,1369 789,1384 860,1384M296,684C284,594 278,521 278,466C278,402 290,333 314,258C337,183 372,123 419,79C453,48 494,32 543,32C601,32 653,59 699,114C744,169 767,247 767,348C767,462 744,561 699,644C654,727 589,769 506,769C481,769 454,764 425,753C396,742 353,719 296,684z"
+   id="glyph22" />
+<glyph
+   unicode="7"
+   horiz-adv-x="1024"
+   d="M206,1356l727,0l0,-38l-452,-1346l-112,0l405,1221l-373,0C326,1193 272,1184 240,1166C184,1135 139,1088 105,1024l-29,11z"
+   id="glyph24" />
+<glyph
+   unicode="a"
+   horiz-adv-x="909"
+   d="M583,132C489,59 430,17 406,6C370,-11 332,-19 291,-19C228,-19 176,3 135,46C94,89 73,146 73,217C73,262 83,300 103,333C130,378 178,421 246,461C313,501 426,550 583,607l0,36C583,734 569,797 540,831C511,865 468,882 413,882C371,882 338,871 313,848C288,825 275,799 275,770l2,-58C277,681 269,658 254,641C238,624 217,616 192,616C167,616 147,625 132,642C116,659 108,683 108,713C108,770 137,823 196,871C255,919 337,943 443,943C524,943 591,929 643,902C682,881 711,849 730,805C742,776 748,718 748,629l0,-311C748,231 750,177 753,158C756,138 762,125 770,118C777,111 786,108 796,108C807,108 816,110 824,115C838,124 865,148 905,188l0,-56C830,32 759,-18 691,-18C658,-18 632,-7 613,16C594,39 584,77 583,132M583,197l0,349C482,506 417,478 388,461C335,432 298,401 275,369C252,337 241,302 241,264C241,216 255,176 284,145C313,113 346,97 383,97C434,97 500,130 583,197z"
+   id="glyph26" />
+<glyph
+   unicode="b"
+   horiz-adv-x="1024"
+   d="M315,758C404,881 499,943 602,943C696,943 778,903 848,823C918,742 953,632 953,493C953,330 899,199 791,100C698,15 595,-28 481,-28C428,-28 374,-18 319,1C264,20 207,49 150,88l0,949C150,1141 148,1205 143,1229C138,1253 130,1269 119,1278C108,1287 95,1291 79,1291C60,1291 37,1286 9,1275l-14,35l275,112l45,0M315,694l0,-548C349,113 384,88 421,71C457,54 494,45 532,45C593,45 649,78 702,145C754,212 780,309 780,436C780,553 754,644 702,707C649,770 590,801 523,801C488,801 452,792 417,774C390,761 356,734 315,694z"
+   id="glyph28" />
+<glyph
+   unicode="e"
+   horiz-adv-x="909"
+   d="M218,571C217,435 250,328 317,251C384,174 462,135 552,135C612,135 664,152 709,185C753,218 790,274 820,354l31,-20C837,243 796,160 729,85C662,10 577,-28 476,-28C366,-28 272,15 194,101C115,186 76,301 76,446C76,603 116,725 197,813C277,900 378,944 499,944C602,944 686,910 752,843C818,775 851,684 851,571M218,629l424,0C639,688 632,729 621,753C604,790 580,820 547,841C514,862 479,873 443,873C388,873 338,852 295,809C251,766 225,706 218,629z"
+   id="glyph30" />
+<glyph
+   unicode="l"
+   horiz-adv-x="569"
+   d="M379,1422l0,-1215C379,150 383,112 392,93C400,74 413,60 430,51C447,41 480,36 527,36l0,-36l-449,0l0,36C120,36 149,40 164,49C179,58 191,72 200,92C209,112 213,150 213,207l0,832C213,1142 211,1206 206,1230C201,1253 194,1269 184,1278C173,1287 160,1291 144,1291C127,1291 105,1286 78,1275l-17,35l273,112z"
+   id="glyph32" />
+<glyph
+   unicode="r"
+   horiz-adv-x="682"
+   d="M332,943l0,-206C409,874 487,943 568,943C605,943 635,932 659,910C683,887 695,861 695,832C695,806 686,784 669,766C652,748 631,739 607,739C584,739 558,751 529,774C500,797 478,808 464,808C452,808 439,801 425,788C395,761 364,716 332,653l0,-439C332,163 338,125 351,99C360,81 375,66 397,54C419,42 451,36 492,36l0,-36l-469,0l0,36C70,36 104,43 127,58C144,69 155,86 162,109C165,120 167,153 167,206l0,355C167,668 165,731 161,752C156,772 148,787 137,796C125,805 110,810 93,810C72,810 49,805 23,795l-10,36l277,112z"
+   id="glyph34" />
+<glyph
+   unicode="s"
+   horiz-adv-x="797"
+   d="M656,943l0,-312l-33,0C598,729 565,796 526,831C486,866 435,884 374,884C327,884 290,872 261,847C232,822 218,795 218,765C218,728 229,696 250,669C271,642 313,613 376,582l146,-71C657,445 725,358 725,250C725,167 694,100 631,49C568,-2 497,-28 419,-28C363,-28 299,-18 227,2C205,9 187,12 173,12C158,12 146,3 137,-14l-33,0l0,327l33,0C156,220 191,149 244,102C297,55 356,31 421,31C467,31 505,45 534,72C563,99 577,131 577,169C577,215 561,254 529,285C496,316 432,356 335,404C238,452 175,495 145,534C115,572 100,620 100,678C100,753 126,816 178,867C229,918 296,943 378,943C414,943 458,935 509,920C543,910 566,905 577,905C588,905 596,907 602,912C608,917 615,927 623,943z"
+   id="glyph36" />
+<glyph
+   unicode="t"
+   horiz-adv-x="569"
+   d="M330,1217l0,-301l214,0l0,-70l-214,0l0,-594C330,193 339,153 356,132C373,111 394,101 421,101C443,101 464,108 485,122C506,135 522,155 533,182l39,0C549,117 516,68 473,35C430,2 386,-15 341,-15C310,-15 280,-6 251,11C222,28 200,52 186,84C172,115 165,164 165,230l0,616l-145,0l0,33C57,894 94,919 133,954C171,989 205,1030 235,1078C250,1103 272,1150 299,1217z"
+   id="glyph38" />
+<glyph
+   unicode="u"
+   horiz-adv-x="1024"
+   d="M867,916l0,-555C867,255 870,190 875,167C880,143 888,126 899,117C910,108 922,103 937,103C958,103 981,109 1007,120l14,-35l-274,-113l-45,0l0,194C623,81 563,27 522,5C481,-17 437,-28 391,-28C340,-28 295,-13 258,17C220,46 194,84 179,131C164,178 157,244 157,329l0,409C157,781 152,811 143,828C134,845 120,858 102,867C83,876 50,880 2,879l0,37l321,0l0,-613C323,218 338,162 368,135C397,108 433,95 475,95C504,95 536,104 573,122C609,140 652,174 702,225l0,519C702,796 693,831 674,850C655,868 615,878 555,879l0,37z"
+   id="glyph40" />
+<glyph
+   unicode="w"
+   horiz-adv-x="1479"
+   d="M13,916l384,0l0,-37C362,876 339,870 328,860C317,850 311,836 311,817C311,796 317,771 328,742l196,-527l197,429l-52,135C653,819 632,847 606,862C591,871 564,877 524,879l0,37l436,0l0,-37C912,877 878,868 858,853C845,842 838,825 838,802C838,789 841,775 846,761l208,-526l193,507C1260,778 1267,807 1267,828C1267,841 1261,852 1248,862C1235,872 1209,878 1171,879l0,37l289,0l0,-37C1402,870 1359,831 1332,761l-306,-789l-41,0l-229,585l-267,-585l-37,0l-294,770C139,791 120,824 101,841C82,858 53,870 13,879z"
+   id="glyph42" />
+</font>
+
+	<font
+   horiz-adv-x="256"
+   id="font54"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="512"
+   vert-origin-y="768"
+   vert-adv-y="1024">
+<!-- Trademark of ZHONGYI Electronic Co., Beijing -->
+<!-- Copyright: Copyright 2022 Adobe System Incorporated. All rights reserved. -->
+<font-face
+   font-family="AdobeSongStd-Light-GBpc-EUC-H"
+   units-per-em="256"
+   underline-position="-22"
+   underline-thickness="12"
+   id="font-face46" />
+<missing-glyph
+   horiz-adv-x="256"
+   id="missing-glyph48" />
+<glyph
+   unicode="（"
+   horiz-adv-x="256"
+   d="M203,177C194,169 185,158 176,144C167,130 162,112 162,90C162,68 166,51 175,39C184,26 193,16 204,8C214,0 218,-5 217,-6C216,-7 209,-4 198,4C187,11 176,21 166,34C155,47 149,63 148,84C146,105 150,123 160,140C170,156 182,169 196,179C209,188 216,192 217,191C217,189 212,184 203,177z"
+   id="glyph50" />
+<glyph
+   unicode="）"
+   horiz-adv-x="256"
+   d="M52,7C61,14 71,25 82,41C92,56 96,74 95,95C94,116 89,133 80,147C71,160 61,171 52,179C42,187 37,192 38,194C38,195 44,192 57,184C69,175 81,163 93,147C105,130 111,111 111,89C110,67 105,49 94,35C83,21 71,10 58,3C45,-5 38,-8 38,-6C37,-5 42,0 52,7z"
+   id="glyph52" />
+</font>
+
+	<rect
+   x="91.065094"
+   y="76.897026"
+   class="st0"
+   width="283.5"
+   height="566.90002"
+   id="rect56" />
+<line
+   class="st0"
+   x1="89.365089"
+   y1="76.897026"
+   x2="366.26511"
+   y2="16.697025"
+   id="line58" />
+<g
+   id="g68"
+   transform="translate(-5.8349067,-19.002977)">
+	<g
+   id="g66">
+		<line
+   class="st0"
+   x1="95.199997"
+   y1="662.79999"
+   x2="97.099998"
+   y2="662.40002"
+   id="line60" />
+		<line
+   class="st1"
+   x1="101.1"
+   y1="661.5"
+   x2="368.20001"
+   y2="603.40002"
+   id="line62" />
+		<line
+   class="st0"
+   x1="370.20001"
+   y1="603"
+   x2="372.10001"
+   y2="602.59998"
+   id="line64" />
+	</g>
+</g>
+<line
+   class="st0"
+   x1="366.26511"
+   y1="16.697025"
+   x2="374.46509"
+   y2="76.897026"
+   id="line70" />
+<g
+   id="g80"
+   transform="translate(-5.8349067,-19.002977)">
+	<g
+   id="g78">
+		<line
+   class="st0"
+   x1="372.10001"
+   y1="602.59998"
+   x2="372.39999"
+   y2="604.59998"
+   id="line72" />
+		<line
+   class="st2"
+   x1="372.89999"
+   y1="608.29999"
+   x2="379.79999"
+   y2="658.90002"
+   id="line74" />
+		<line
+   class="st0"
+   x1="380.10001"
+   y1="660.79999"
+   x2="380.29999"
+   y2="662.79999"
+   id="line76" />
+	</g>
+</g>
+<g
+   id="g90"
+   transform="translate(-5.8349067,-19.002977)">
+	<g
+   id="g88">
+		<line
+   class="st0"
+   x1="372.10001"
+   y1="35.700001"
+   x2="372.10001"
+   y2="37.700001"
+   id="line82" />
+		<line
+   class="st3"
+   x1="372.10001"
+   y1="41.700001"
+   x2="372.10001"
+   y2="598.59998"
+   id="line84" />
+		<line
+   class="st0"
+   x1="372.10001"
+   y1="600.59998"
+   x2="372.10001"
+   y2="602.59998"
+   id="line86" />
+	</g>
+</g>
+<circle
+   class="st4"
+   cx="91.065094"
+   cy="371.49701"
+   r="11.3"
+   id="circle92" />
+<text
+   class="st5 st6"
+   id="text94"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="16.719093"
+   y="656.91205">（</text>
+<text
+   class="st7 st6"
+   id="text96"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="40.719093"
+   y="655.20996">0,4</text>
+<text
+   class="st5 st6"
+   id="text98"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="70.719093"
+   y="656.91205">）</text>
+<text
+   class="st5 st6"
+   id="text100"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="16.719093"
+   y="76.571823">（</text>
+<text
+   class="st7 st6"
+   id="text102"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="40.719093"
+   y="74.869621">2,6</text>
+<text
+   class="st5 st6"
+   id="text104"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="70.719093"
+   y="76.571823">）</text>
+<text
+   class="st7 st6"
+   id="text106"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="385.18658"
+   y="647.04004">1</text>
+<text
+   class="st7 st6"
+   id="text108"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="352.50549"
+   y="571.46484">5</text>
+<text
+   class="st7 st6"
+   id="text110"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="389.27148"
+   y="80.230927">3</text>
+<text
+   class="st7 st6"
+   id="text112"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="381.10159"
+   y="15.890625">7</text>
+<text
+   class="st7 st6"
+   id="text114"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="0.05859375"
+   y="375.95483">bubbles</text>
+<text
+   class="st7 st6"
+   id="text116"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="206.46298"
+   y="300.82663">water</text>
+<circle
+   class="st8"
+   cx="91.065094"
+   cy="343.19702"
+   r="11.3"
+   id="circle118" />
+<circle
+   class="st8"
+   cx="91.065094"
+   cy="399.89703"
+   r="11.3"
+   id="circle120" />
+</svg>
