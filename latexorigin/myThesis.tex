@@ -1,0 +1,137 @@
+%%%%% ------------------------------------------------------------------------------------------
+%%
+%%                               Document Template
+%%
+%%  Project Name: njustThesis
+%%  Repository: https://github.com/jiec827/njustThesis
+%%
+%%%%% ------------------------------------------------------------------------------------------
+%% re-written by Jie Cheng <jie.cheng@aliyun.com>
+%% Last-modified: 2015-01-05
+%%
+%% This program can be redistributed and/or modified under the terms
+%% of the GNU Public License, version 2.
+%%%%% ------------------------------------------------------------------------------------------
+%%
+%%%%*************************Document Class Declaration*******************************
+%%
+
+
+\documentclass{sty/njustThesis}% thesis template of the Nanjing Univ of Sci & Tech
+%% Options:
+%% [draftinfo] % show draft version information
+%%%%% --------------------------------------------------------------------------------
+%%
+%%%%**************************Command Define and Settings***************************
+%%
+\makeatletter
+ \def\@textbottom{\vskip \z@ \@plus 10pt}
+ \let\@texttop\relax
+\makeatother
+
+\usepackage[njust]{sty/commons}% common settings
+\usepackage{sty/custom}% user defined commands
+%\usepackage[numerical]{bib/gbt7714}
+%\usepackage{fancyhdr, hyperref} 
+\usepackage{latexsym}
+%%%%% ------------------------------------------------------------------------------------------
+%%%%*********************************Content**********************************************
+%%
+
+\pdfstringdefDisableCommands{%
+  \let\enspace\empty  % this causes the warning for \kern
+  \let\noindent\empty % this causes the warning for \indent
+  \let\hskip\empty
+}
+
+\begin{document}
+%%
+%%%%% ------------------------------------------------------------------------------------------
+%%
+%%%%*********************************Frontmatter******************************************
+%%
+%% Frontmatter of Title page, Table of contents, Preface chapter.
+%%
+%% >>> Cover
+%%
+\input{tex/cover}
+%%
+%% >>> start frontmatter page No.
+%%
+\frontmatter
+%%
+%% >>> Abstract
+%%
+\input{tex/abstract}
+%%
+%%% >>> List of Content
+%%
+%\clearpage
+\tableofcontents% contents catalog
+\addcontentsline{toc}{chapter}{目录}
+%% list figures and tables sperately
+%\listoffigures%   figures catalog
+%\addcontentsline{toc}{chapter}{插图目录}
+%\listoftables%    tables catalog
+%\addcontentsline{toc}{chapter}{表格目录}
+% list figures and tables together
+\listoffiguresandtables
+\addcontentsline{toc}{chapter}{图表目录}
+%%
+% {\centering\printnomenclature}% nomenclature catalog
+% \addcontentsline{toc}{chapter}{术语表}
+%%
+%%%%% ------------------------------------------------------------------------------------------
+%%
+%%%%*********************************Mainmatter******************************************
+%%
+%% Main topics.
+\mainmatter
+%%
+%%% >>> Main Contents
+%%
+
+\input{tex/introduction}%
+\input{tex/chap2}%
+\input{tex/chap3}%
+\input{tex/chap4}%
+\input{tex/chap5}%
+\input{tex/future}
+%%%%% ------------------------------------------------------------------------------------------
+%%
+%%%%*********************************Appendix********************************************
+%%
+%% Some subordinate chapters.
+%\input{tex/appendix}%
+%%%%% ------------------------------------------------------------------------------------------
+%%
+%%%%********************************Backmatter*******************************************
+%%
+%% Matters of Bibliography, Glossary, Index.
+\backmatter
+%%
+%%% >>> Acknowledgements
+%%
+%%
+%%% >>> Bibliography
+%%
+
+%\bibliographystyle{bib/GBT7714}
+
+\bibliographystyle{bib/bnubibn}
+
+{\centering\bibliography{bib/references(1)}}
+%%
+%%% >>> Publications
+%%
+\input{tex/thanks}
+\input{tex/publications}
+%%
+%%% >>> Resume
+%%
+%%% >>> Resume
+%%
+%\input{tex/resume}
+%%
+\end{document}
+%%%%% ------------------------------------------------------------------------------------------
